@@ -1,1 +1,2 @@
 # Module_12_Challenge
+## The Purpose of this analysis was to learn how to use Javascript and HTML to create a website that displays 3 typesof graphs. The first graph is a horizonatl bar chart, the seconds graph is a bubble chart, and the third graph is a gauge chart. Each of the graphs use the same data that was collected from a sample file which contained data about the ecosystem of a belly button.
